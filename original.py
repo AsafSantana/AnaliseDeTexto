@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep  4 01:57:14 2019
 
-@author: Taimoor
 """
 
 corpus = ['text text mining is interesting',
